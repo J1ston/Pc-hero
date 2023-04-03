@@ -1,0 +1,24 @@
+.body{
+    background-color: #9C27B0;
+
+}
+@media (min-wdht:768px) and (max-widht: 1023px) (
+    .body{
+        background-color: #009688;
+    }
+)
+@media (min-wdht:1024px) and (max-widht: 1439px) (
+    .body{
+        background-color: #2196F3;
+    }
+)
+@media (min-wdht:1440px) and (max-widht: 1599px) (
+    .body{
+        background-color: #2196F3;
+    }
+)
+@media (min-wdht:1600px) (
+    .body{
+        background-color: #FFC107;
+    }
+)
